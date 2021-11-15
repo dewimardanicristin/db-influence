@@ -9,12 +9,15 @@
             "kategori" : "Beauty Influencer",
             "lokasi" : "DKI Jakarta",
             "insight" : {
-                "followers-instagram" : "2.4M",
-                "likes-instagram" : "20M",
-                "comments-instagram" :"30M",
-                "followers-facebook" : "200k",
-                "likes-facebook" : "1M",
-                "comments-facebook" :"500K"
+                "followersinstagram" : "2.4M",
+                "likesinstagram" : "20M",
+                "commentsinstagram" :"30M",
+                "followersfacebook" : "200k",
+                "likesfacebook" : "1M",
+                "commentsfacebook" :"500K",
+                "followerstwitter" : "100k",
+                "likestwitter" : "40k",
+                "commentstwitter" :"20K"
             },
             "tags" : ["kecantikan","artis","model"]
         },
@@ -27,15 +30,15 @@
             "kategori" : "Beauty Influencer",
             "lokasi" : "DKI Jakarta",
             "insight" : {
-                "followers-instagram" : "5M",
-                "likes-instagram" : "40M",
-                "comments-instagram" :"50M",
-                "followers-facebook" : "300k",
-                "likes-facebook" : "2M",
-                "comments-facebook" :"800K",
-                "followers-twitter" : "50k",
-                "likes-twitter" : "10k",
-                "comments-twitter" :"20K"
+                "followersinstagram" : "5M",
+                "likesinstagram" : "40M",
+                "commentsinstagram" :"50M",
+                "followersfacebook" : "300k",
+                "likesfacebook" : "2M",
+                "commentsfacebook" :"800K",
+                "followerstwitter" : "50k",
+                "likestwitter" : "10k",
+                "commentstwitter" :"20K"
             },
             "tags" : ["kecantikan","artis","model"]
         },
@@ -48,15 +51,15 @@
             "kategori" : "Beauty Influencer",
             "lokasi" : "Jawa Barat",
             "insight" : {
-                "followers-instagram" : "1.5M",
-                "likes-instagram" : "20M",
-                "comments-instagram" :"30M",
-                "followers-facebook" : "100k",
-                "likes-facebook" : "500k",
-                "comments-facebook" :"100K",
-                "followers-twitter" : "40k",
-                "likes-twitter" : "50k",
-                "comments-twitter" :"20K"
+                "followersinstagram" : "1.5M",
+                "likesinstagram" : "20M",
+                "commentsinstagram" :"30M",
+                "followersfacebook" : "100k",
+                "likesfacebook" : "500k",
+                "commentsfacebook" :"100K",
+                "followerstwitter" : "40k",
+                "likestwitter" : "50k",
+                "commentstwitter" :"20K"
             },
             "tags" : ["kecantikan","artis","model"]
         },
@@ -69,15 +72,15 @@
             "kategori" : "Gamers",
             "lokasi" : "Jawa Barat",
             "insight" : {
-                "followers-instagram" : "10M",
-                "likes-instagram" : "40M",
-                "comments-instagram" :"70M",
-                "followers-facebook" : "100k",
-                "likes-facebook" : "500k",
-                "comments-facebook" :"100K",
-                "followers-twitter" : "100k",
-                "likes-twitter" : "20k",
-                "comments-twitter" :"10K"
+                "followersinstagram" : "10M",
+                "likesinstagram" : "40M",
+                "commentsinstagram" :"70M",
+                "followersfacebook" : "100k",
+                "likesfacebook" : "500k",
+                "commentsfacebook" :"100K",
+                "followerstwitter" : "100k",
+                "likestwitter" : "20k",
+                "commentstwitter" :"10K"
             },
             "tags" : ["Gamers","Penyanyi","Food vloger"]
         },
@@ -90,15 +93,15 @@
             "kategori" : "Gamers",
             "lokasi" : "Jawa Barat",
             "insight" : {
-                "followers-instagram" : "3M",
-                "likes-instagram" : "10M",
-                "comments-instagram" :"20M",
-                "followers-facebook" : "50k",
-                "likes-facebook" : "50k",
-                "comments-facebook" :"100K",
-                "followers-twitter" : "30k",
-                "likes-twitter" : "60k",
-                "comments-twitter" :"70K"
+                "followersinstagram" : "3M",
+                "likesinstagram" : "10M",
+                "commentsinstagram" :"20M",
+                "followersfacebook" : "50k",
+                "likesfacebook" : "50k",
+                "commentsfacebook" :"100K",
+                "followerstwitter" : "30k",
+                "likestwitter" : "60k",
+                "commentstwitter" :"70K"
             },
             "tags" : ["Gamers","Technology"]
         },
@@ -111,15 +114,15 @@
             "kategori" : "Gamers",
             "lokasi" : "DKI Jakarta",
             "insight" : {
-                "followers-instagram" : "20M",
-                "likes-instagram" : "50M",
-                "comments-instagram" :"80M",
-                "followers-facebook" : "310k",
-                "likes-facebook" : "200k",
-                "comments-facebook" :"20k",
-                "followers-twitter" : "520k",
-                "likes-twitter" : "150k",
-                "comments-twitter" :"70K"
+                "followersinstagram" : "20M",
+                "likesinstagram" : "50M",
+                "commentsinstagram" :"80M",
+                "followersfacebook" : "310k",
+                "likesfacebook" : "200k",
+                "commentsfacebook" :"20k",
+                "followerstwitter" : "520k",
+                "likestwitter" : "150k",
+                "commentstwitter" :"70K"
             },
             "tags" : ["lifestyle","Gaming","Beauty","Food & Drink"]
         },
@@ -132,15 +135,15 @@
             "kategori" : "Food Vlogger",
             "lokasi" : "Padang, Sumatera",
             "insight" : {
-                "followers-instagram" : "200k",
-                "likes-instagram" : "1M",
-                "comments-instagram" :"500K",
-                "followers-facebook" : "50k",
-                "likes-facebook" : "100k",
-                "comments-facebook" :"20K",
-                "followers-twitter" : "50k",
-                "likes-twitter" : "10k",
-                "comments-twitter" :"1K"
+                "followersinstagram" : "200k",
+                "likesinstagram" : "1M",
+                "commentsinstagram" :"500K",
+                "followersfacebook" : "50k",
+                "likesfacebook" : "100k",
+                "commentsfacebook" :"20K",
+                "followerstwitter" : "50k",
+                "likestwitter" : "10k",
+                "commentstwitter" :"1K"
             },
             "tags" : ["Food","Mukbang"]
         },
@@ -153,15 +156,15 @@
             "kategori" : "Food Vlogger",
             "lokasi" : "Jawa Barat",
             "insight" : {
-                "followers-instagram" : "3M",
-                "likes-instagram" : "10M",
-                "comments-instagram" :"20M",
-                "followers-facebook" : "50k",
-                "likes-facebook" : "50k",
-                "comments-facebook" :"100K",
-                "followers-twitter" : "30k",
-                "likes-twitter" : "60k",
-                "comments-twitter" :"70K"
+                "followersinstagram" : "3M",
+                "likesinstagram" : "10M",
+                "commentsinstagram" :"20M",
+                "followersfacebook" : "50k",
+                "likesfacebook" : "50k",
+                "commentsfacebook" :"100K",
+                "followerstwitter" : "30k",
+                "likestwitter" : "60k",
+                "commentstwitter" :"70K"
             },
             "tags" : ["Food","Mukbang","Lifestyle","kecantikan"]
         },
@@ -174,15 +177,15 @@
             "kategori" : "Food Vlogger",
             "lokasi" : "Jawa Barat",
             "insight" : {
-                "followers-instagram" : "500K",
-                "likes-instagram" : "1M",
-                "comments-instagram" :"400K",
-                "followers-facebook" : "180k",
-                "likes-facebook" : "90k",
-                "comments-facebook" :"40K",
-                "followers-twitter" : "20k",
-                "likes-twitter" : "10k",
-                "comments-twitter" :"20K"
+                "followersinstagram" : "500K",
+                "likesinstagram" : "1M",
+                "commentsinstagram" :"400K",
+                "followersfacebook" : "180k",
+                "likesfacebook" : "90k",
+                "commentsfacebook" :"40K",
+                "followerstwitter" : "20k",
+                "likestwitter" : "10k",
+                "commentstwitter" :"20K"
             },
             "tags" : ["Lifestyle","Mukbang","Food & Drink"]
         },
@@ -195,15 +198,15 @@
             "kategori" : "Pendidikan",
             "lokasi" : "Padang, Sumatera",
             "insight" : {
-                "followers-instagram" : "500k",
-                "likes-instagram" : "1M",
-                "comments-instagram" :"200k",
-                "followers-facebook" : "150k",
-                "likes-facebook" : "50k",
-                "comments-facebook" :"100K",
-                "followers-twitter" : "60k",
-                "likes-twitter" : "30k",
-                "comments-twitter" :"90K"
+                "followersinstagram" : "500k",
+                "likesinstagram" : "1M",
+                "commentsinstagram" :"200k",
+                "followersfacebook" : "150k",
+                "likesfacebook" : "50k",
+                "commentsfacebook" :"100K",
+                "followerstwitter" : "60k",
+                "likestwitter" : "30k",
+                "commentstwitter" :"90K"
             },
             "tags" : ["Lifestyle","Health","Education","Vacation"]
         }
